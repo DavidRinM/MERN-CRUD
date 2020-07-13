@@ -1,6 +1,5 @@
-"# MERN-CRUD" 
+# MERN-CRUD
 
-#To do´s:
-
-    -Implement User authentication.
-    -Improve current UI.
+#**To do´s**:
+-Implement User authentication.
+-Improve current UI.
